@@ -13,14 +13,14 @@ based on README-template provided by github.com/othneildrew
 *** See the bottom of this document for the declaration of the reference variables
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
+-->
 
 
 <!-- PROJECT LOGO -->
@@ -33,13 +33,11 @@ based on README-template provided by github.com/othneildrew
   <h3 align="center">Systems Engineering Portfolio: Automatic Whiteboard Rubber: 2023</h3>
 
   <p align="center">
-    led by Raymond
+    Made by Raymond
     <br />
     <a href="https://rdang.dev/systems-engineering-portfolio/"><strong>View the portfolio »</strong></a>
     <br />
     <br />
-    <a href="https://rdang.dev/systems-engineering-portfolio/">Contact Raymond</a>
-    ·
     <a href="https://gallery.rdang.dev">Gallery</a>
     ·
     <a href="https://rdang.dev/links">Links</a>
@@ -91,24 +89,6 @@ Of course, no one template will serve all projects since your needs may be diffe
 Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED
@@ -187,9 +167,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Your Name - [@your_twitter](https://twitter.com/your_username) - contact@rdang.dev
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
