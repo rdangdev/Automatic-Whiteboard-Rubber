@@ -81,7 +81,7 @@ Uploaded are the complete raw files that lead to the design of the yet-to-be-nam
 
 This project was part of my VCE Systems Engineering and will be archived when done.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 <!-- GETTING STARTED
@@ -153,15 +153,11 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 
 Distributed under the Creative Commons Attribution Share Alike 4.0 International. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- CONTACT -->
 ## Contact
 
 Raymond Dang - contact@rdang.dev
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -173,8 +169,6 @@ Listed are people/resources I've utilised to make this project.
 * [Choose an Open Source License](https://choosealicense.com)
 * [Mr Richardson](https://www.linkedin.com/in/ralph-richardson-9077314/)
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
