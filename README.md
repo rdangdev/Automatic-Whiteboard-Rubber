@@ -77,16 +77,9 @@ based on README-template provided by github.com/othneildrew
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://rdang.dev)
+Uploaded are the complete raw files that lead to the design of the yet-to-be-named Automatic Whiteboard Rubber
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+This project was part of my VCE Systems Engineering and will be archived when done.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -166,7 +159,7 @@ Distributed under the Creative Commons Attribution Share Alike 4.0 International
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - contact@rdang.dev
+Raymond Dang - contact@rdang.dev
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -175,16 +168,11 @@ Your Name - [@your_twitter](https://twitter.com/your_username) - contact@rdang.d
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Listed are people/resources I've utilised to make this project.
 
 * [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+* [Mr Richardson](https://www.linkedin.com/in/ralph-richardson-9077314/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
