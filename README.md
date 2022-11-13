@@ -167,7 +167,7 @@ Raymond Dang - contact@rdang.dev
 Listed are the people/resources I've utilised to make this project.
 
 * [Choose an Open Source License](https://choosealicense.com)
-* [Mr Richardson](https://www.linkedin.com/in/ralph-richardson-9077314/)
+* [Mr Ralph Richardson](https://www.linkedin.com/in/ralph-richardson-9077314/)
 
 
 
