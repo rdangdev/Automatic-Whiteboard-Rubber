@@ -35,7 +35,7 @@ based on README-template provided by github.com/othneildrew
   <p align="center">
     Made by Raymond
     <br />
-    <a href="https://rdang.dev/systems-engineering-portfolio/"><strong>View the portfolio »</strong></a>
+    <a href="https://rdang.dev/systems-engineering-portfolio/"><strong>View the portfolio</strong></a>
     <br />
     <br />
     <a href="https://gallery.rdang.dev">Gallery</a>
@@ -164,7 +164,7 @@ Raymond Dang - contact@rdang.dev
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Listed are people/resources I've utilised to make this project.
+Listed are the people/resources I've utilised to make this project.
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [Mr Richardson](https://www.linkedin.com/in/ralph-richardson-9077314/)
